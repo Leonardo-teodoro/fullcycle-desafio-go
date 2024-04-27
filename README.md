@@ -1,2 +1,4 @@
 # fullcycle-desafio-go
-Desafio Go Full Cycle 3.0
+Criei uma [imagem](https://hub.docker.com/repository/docker/reazeleo/fullcycle/general) conforme descrito pelo desafio.
+
+Disponível em: https://hub.docker.com/repository/docker/reazeleo/fullcycle/general
